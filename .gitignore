@@ -1,0 +1,6 @@
+project
+target
+src/main/test
+.DS_Store
+.idea
+.bsp
